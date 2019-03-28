@@ -3,6 +3,6 @@
 
 int myfunc(int b);
 
-int fibonachi(int num);
+int fibonachi(int n);
 
 #endif // MYFUNC_H
