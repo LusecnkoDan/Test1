@@ -5,3 +5,8 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=egorhristoforov_testing&metric=bugs)](https://sonarcloud.io/dashboard?id=egorhristoforov_testing)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=egorhristoforov_testing&metric=code_smells)](https://sonarcloud.io/dashboard?id=egorhristoforov_testing)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=egorhristoforov_testing&metric=ncloc)](https://sonarcloud.io/dashboard?id=egorhristoforov_testing)
+
+
+
+
+https://travis-ci.com/LusecnkoDan/Test1/builds/106229244
