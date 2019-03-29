@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "myfunc.h"
+
 #include "equatation.h"
 
 int main()
