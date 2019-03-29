@@ -6,7 +6,7 @@ before_install:
   
 addons:
   sonarcloud:
-    organization: "LusenkoDan-github"
+    organization: "LusecnkoDan-github"
     token:
       secure: $SONAR_TOKEN
 
