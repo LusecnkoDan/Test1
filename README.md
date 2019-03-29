@@ -10,3 +10,4 @@
 
 
 https://travis-ci.org/LusecnkoDan/Test1/builds/512907710
+https://coveralls.io/github/LusecnkoDan/Test1
